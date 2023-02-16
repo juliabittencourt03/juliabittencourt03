@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-🚀 Desenvolvedora Front-end Junior
+🚀 Desenvolvedora Front-end Junior <br>
 💻 Estudando sobre JavaScript, SQL, Git, Node
