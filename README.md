@@ -2,4 +2,4 @@
 
 🚀 Desenvolvedora FullStack Jr <br>
 🎓 Análise e Desenvolvimento de Sistemas <br>
-💻 Estudando sobre JavaScript, SQL, Git, Node.js
+💻 Utilizo as stacks Python/Django, Quasar/Vue3, PostgreSQL, HTML e CSS/SCSS
